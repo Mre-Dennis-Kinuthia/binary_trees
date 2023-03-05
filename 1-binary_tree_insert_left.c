@@ -33,6 +33,5 @@ if (left_node == NULL)
 return (NULL);
 parent->left = left_node;
 }
-
 return (left_node);
 }
